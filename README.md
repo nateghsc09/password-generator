@@ -10,4 +10,4 @@ Then it will generate a password that meets your requests.
 
 https://nateghsc09.github.io/password-generator/
 
-![alt text](https://github.com/nateghsc09/password-generator/assests/)
+![screenshot](https://github.com/nateghsc09/password-generator/assests/Screenshot 2021-02-26 001045.jpg)
