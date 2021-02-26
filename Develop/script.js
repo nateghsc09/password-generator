@@ -22,10 +22,10 @@ function generatePassword() {
   ) {
 
 //boolean to see which type of characters we can use
-    var lower = confirm("Do you want lowercase letters in your password? (Ok=Yes, Cancel =No)");
-    var upper = confirm("Do you want uppercase letters in your password? (Ok=Yes, Cancel =No)");
-    var numbers = confirm("Do you want numbers in you password? (Ok=Yes, Cancel =No)");
-    var special = confirm("Do you want special characters in your password? (Ok=Yes, Cancel =No)");
+    var lower = confirm("Do you want lowercase letters in your password? (Ok=Yes, Cancel = No)");
+    var upper = confirm("Do you want uppercase letters in your password? (Ok=Yes, Cancel = No)");
+    var numbers = confirm("Do you want numbers in you password? (Ok=Yes, Cancel = No)");
+    var special = confirm("Do you want special characters in your password? (Ok=Yes, Cancel = No)");
 
 // we check each of our categories and if true, concat combines that specific array
     if (lower) {
